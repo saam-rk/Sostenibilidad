@@ -1,1 +1,1 @@
-Haciendo un cambio desde la interfaz de usuario
+Cambio de informacion en el fichero de notas.txt desde la rama local
